@@ -1,12 +1,12 @@
 # Dejavu
-Dejavu Site with Magento 1.9
-1- Premium , Xclusives ,payfort,Valu payment cards on website
-2- Template Design 
-3- plugins like product sticker , order configuration , Infiniti Scroll in homepage,store locator
-4- Widgets(blog,products styles,category menu)
-4- Safe API to Portal and Mobile App
-5- Speedup and monitor web Application
-6- Markting like SEO and Facebook Pixil 
+## Dejavu Site with Magento 1.9
+#1- Premium , Xclusives ,payfort,Valu payment cards on website
+#2- Template Design 
+#3- plugins like product sticker , order configuration , Infiniti Scroll in homepage,store locator
+#4- Widgets(blog,products styles,category menu)
+#5- Safe API to Portal and Mobile App
+#6- Speedup and monitor web Application
+#7- Markting like SEO and Facebook Pixil 
 
 ![1599756814612](https://user-images.githubusercontent.com/38462856/92771272-05bd6480-f39b-11ea-9552-92c5764c61c4.png)
 ![1599756847759](https://user-images.githubusercontent.com/38462856/92771283-08b85500-f39b-11ea-89f8-015e120480e9.png)
