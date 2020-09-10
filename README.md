@@ -1,6 +1,6 @@
 # Dejavu
 ## Dejavu Site with Magento 1.9
-## Payemnts
+## Payments
  Devloping Payment Methods like Premium , Xclusives ,payfort,Valu payment cards on website
 ## Web Design
 # Template Design 
